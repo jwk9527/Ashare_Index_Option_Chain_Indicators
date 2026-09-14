@@ -4,11 +4,9 @@
 
 输出演示（1b）：华夏科创50ETF2606期，6月22日期权链收盘指标
 
-![alt text](<img width="1489" height="1190" alt="demo_a" src="https://github.com/user-attachments/assets/682f2ef4-5e41-439e-8aa0-5840248804b6" />)
+![demo_a](https://github.com/user-attachments/assets/682f2ef4-5e41-439e-8aa0-5840248804b6)
 
-![alt text](<img width="1189" height="490" alt="demo_b" src="https://github.com/user-attachments/assets/43c73145-2539-43b8-ae7a-1b347183d1ae" />
-)
-
+![demo_b](https://github.com/user-attachments/assets/43c73145-2539-43b8-ae7a-1b347183d1ae)
 
 1a-1e文件意在构建面向 A 股 ETF 期权（以科创50ETF 588000为例）的时刻截面分析工具包：
 通过 **iFind 量化接口**拉取某一到期月在某交易日收盘时的完整期权链，清洗后计算
