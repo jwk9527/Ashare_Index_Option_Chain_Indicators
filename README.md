@@ -1,5 +1,14 @@
 # Ashare Index Option Chain Indicators
 
+---
+
+输出演示（1b）：华夏科创50ETF2606期，6月22日期权链收盘指标
+
+![alt text](clipboard2.png)
+
+![alt text](clipboard3.png)
+
+
 1a-1e文件意在构建面向 A 股 ETF 期权（以科创50ETF 588000为例）的时刻截面分析工具包：
 通过 **iFind 量化接口**拉取某一到期月在某交易日收盘时的完整期权链，清洗后计算
 **持仓墙（call/put wall）、最大痛苦点（max pain）、Gamma 暴露（GEX）与 zero-gamma、
