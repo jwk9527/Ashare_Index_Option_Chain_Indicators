@@ -1,0 +1,2 @@
+date,spot,risk_free_rate,days_to_expiry,call_wall,put_wall,max_pain,net_gex_million,zero_gamma,atm_iv,atm_strike,call25_put25_iv_skew,call25_put25_iv_ratio,put25_minus_call25_strike,hv30,hv60,hv90
+2026-06-23,2.023,0.01403,30,2.15,2.0,1.95,28.52,1.9,0.5231,2.0,-0.04820000000000002,0.9168104936140835,-0.44999999999999996,49.125229035471,43.793348514378,40.026575892286
