@@ -1,0 +1,23 @@
+[project]
+name = "project-option-chain"
+version = "0.1.0"
+description = "Option-chain analytics for gamma exposure coursework"
+readme = "README.md"
+authors = [
+    { name = "jwk9527", email = "C2600532@e.ntu.edu.sg" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10",
+    "numpy>=2.3",
+    "openpyxl>=3.1",
+    "pandas>=2.3",
+    "scipy>=1.16",
+]
+
+[project.scripts]
+project-option-chain = "project_option_chain.main:main"
+
+[build-system]
+requires = ["uv_build>=0.12.9,<0.13.0"]
+build-backend = "uv_build"
