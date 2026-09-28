@@ -8,6 +8,9 @@
 
 ![demo_b](https://github.com/user-attachments/assets/43c73145-2539-43b8-ae7a-1b347183d1ae)
 
+指标运算部分代码经ai处理，打包在文件夹project_option_chain中。以下使用说明基于ipynb文件梳理。
+
+
 1a-1e文件意在构建面向 A 股 ETF 期权（以科创50ETF 588000为例）的时刻截面分析工具包：
 通过 **iFind 量化接口**拉取某一到期月在某交易日收盘时的完整期权链，清洗后计算
 **持仓墙（call/put wall）、最大痛苦点（max pain）、Gamma 暴露（GEX）与 zero-gamma、
